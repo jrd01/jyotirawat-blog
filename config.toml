@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jyoti Rawat"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0b"
+  description = "My personal blog"
+  copyright = "Copyright © 2020 Jyoti Rawat. All Rights Reserved."
